@@ -20,11 +20,20 @@ favoris et d'y placer la liste vue précédemment, à savoir :
 * Diffusion ou netteté
 
 Pour y parvenir :
-* ouvrir le panneau des pré-réglages des modules. 
-* créer un nouveau preset
-* créer un nouvel onglet et modifier le nom
-* ajouter la liste des modules
+* ouvrir le panneau des pré-réglages des modules.
+![Configuration des modules](config_modules1.png?classes=shadow&height=500pw)
+* créer un nouveau preset (1)
+* modifier le nom et l'icône de l'onglet (2)
+* ajouter la liste des modules (3)
 
-Cette façon de  faire reste la plus simple pour  débuter. Lorsque vous
+![Configuration de l'onglet favori](config_modules2.png?classes=shadow&height=500pw)
+
+Ainsi, tous les modules seront accessibles rapidement :
+
+![Vue finale des modules RVB](config_modules3.png?classes=shadow&height=500pw)
+
+Pour changer  de preset,  il suffit  de cliquer  sur les  trois lignes,
+comme au début de cette page, et de sélectionner le preset voulu.
+
+Cette façon de faire reste la plus simple pour débuter. Lorsque vous
 aurez dompté le logiciel, vous pourrez faire votre disposition.
-
