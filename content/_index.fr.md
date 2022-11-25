@@ -150,7 +150,4 @@ darktable.
 
 La documentation est sous licence creative commons CC BY-NC-SA 4.0. 
 
-## Participer
-Etant donné  sa licence,  participer à ce  projet est  une possibilité
-souhaitée.  Dans cette  hypothèse, cliquer  sur  le crayon  en haut  à
-droite.
+{{% button href="/more/soutenir/" style="info" %}}Participer{{% /button %}}
