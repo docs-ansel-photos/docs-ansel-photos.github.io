@@ -15,7 +15,7 @@ l'on établit, le traitement sera le même, bien sûr, à modules exacts. On
 peut commencer par balance couleurs par exemple et finir par
 l'exposition, exemple très forcé.
 
-Développer une photographie avec R&Darktable se fait donc dans la chambre
+Développer une photographie avec Ansel se fait donc dans la chambre
 noire avec 8 modules et non 80. Après pratique, cela se fera avec un certain
 automatisme et donc rapidement.
 
@@ -40,4 +40,8 @@ d'entrée et de sortie. Il faut  noter que les paramètres par défaut de
 ces modules  sont qualitatifs pour  le développement.  Il n'y  a aucun
 besoin de changer ceux-ci.
 
-En somme, 8 modules sont à régler pour développer une photographie.
+En somme,  8 modules  sont à régler  pour développer  une photographie
+dans  la  chambre  noire.  Ils  seront  facilement  accessibles  après
+configuration :
+
+![Vue chambre noire](001-configuration/config_modules3.png?classes=shadow&height=500px)

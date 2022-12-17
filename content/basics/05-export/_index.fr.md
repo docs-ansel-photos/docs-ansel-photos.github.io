@@ -4,7 +4,7 @@ title = "Export"
 weight = 30
 +++
 
-L'export est la dernière étape dans l'utilisation de R&Darktable.
+L'export est la dernière étape dans l'utilisation d'Ansel.
 
 Ce module se situe dans la table lumineuse sur la partie de gauche.
 

@@ -4,15 +4,15 @@ title = "Introduction"
 weight = 2
 +++
 
-Ce tutoriel va s'attacher à décrire  le flux de travail sous R&Darktable
+Ce tutoriel va s'attacher à décrire  le flux de travail sous Ansel
 de l'importation jusqu'à  l'exportation de l'image avec,  bien sûr, le
 développement.
 
-R&Darktable n'est pas aussi difficile que l'on voudrait faire croire. Il
+Ansel n'est pas aussi difficile que l'on voudrait faire croire. Il
 s'agit tout  simplement de partir d'une  base saine et de  savoir quoi
 utiliser.
 
-R&Darktable possède  environ 80  modules dans la  chambre noire  (à la
+Ansel possède  environ 80  modules dans la  chambre noire  (à la
 date  d'écriture). Certains  sont  redondants,  appartiennent au  flux
 relatif à l'affichage ou à la  scène. Comme dit auparavant, ce site ne
 traitera que du flux relatif à la scène ; ce pour plusieurs raisons :
@@ -31,9 +31,9 @@ Avec  ces  notions,  il  est  facile  de  clarifier  l'utilisation  de
 darktable et en faire un logiciel "facile" ou tout au moins plus clair.
 
 {{% notice info %}}
-Certaines parties ne seront plus valables pour R&Darktable  qui sera libéré  de ces
+Certaines parties ne seront plus valables pour Ansel  qui sera libéré  de ces
 considérations. Il sera ainsi plus  facile de débuter un apprentissage
-sur R&Darktable.
+sur Ansel.
 
 Par contre, cette configuration sera nécessaire pour darktable.
 {{% /notice %}}

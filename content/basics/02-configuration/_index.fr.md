@@ -4,13 +4,13 @@ title = "Configuration"
 weight = 10
 +++
 
-R&Darktable est un logiciel complet qui comporte beaucoup d'outils. Il
+Ansel est un logiciel complet qui comporte beaucoup d'outils. Il
 convient de  le paramétrer  un minimum.  Cela se  fait par  la fenêtre
 accessible par la  roue crantée sur tout onglet du  logiciel située en
 haut plutôt à droite.
 
 {{% notice info %}} Comme dit  auparavant, à terme, il sera inutile de
-suivre totalement cette partie pour configurer R&Darktable puisque les
+suivre totalement cette partie pour configurer Ansel puisque les
 fonctions restantes seront en relation avec le flux de travail relatif
 à la scène. Si les options sont inexistantes, il ne faut pas en tenir compte.
 
@@ -62,7 +62,7 @@ réglée automatiquement sur le point de référence neutre du boîtier, le
 plus souvent  D65.  Ce nouveau  flux permettra d'obtenir  de meilleurs
 développements, c'est donc celui qui sera utilisé dans le tutoriel.
 
-### partie stockage
+### Partie stockage
 
 Le fichier xmp est un fichier texte qui accompagne chaque raw. Chaque
 raw peut avoir plusieurs fichiers xmp ce qui symbolise les clones, pour
@@ -78,6 +78,6 @@ ici. En effet, elles ne sont pas nécessaires dans un premier temps pour
 développer une photo.
 
 {{% notice tip %}}
-Il ne faut pas oublier de redémarrer darktable pour que les nouvelles
+Il ne faut pas oublier de redémarrer Ansel pour que les nouvelles
 préférences soient prises en compte.
 {{% /notice %}}

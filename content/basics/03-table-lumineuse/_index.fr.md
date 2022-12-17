@@ -5,7 +5,7 @@ weight = 15
 +++
 
 Avant de développer, il est nécessaire d'effectuer l'import, le tri et
-de classer la photothèque. Dans ce but, R&Darktable dispose de la table
+de classer la photothèque. Dans ce but, Ansel dispose de la table
 lumineuse.
 
 Tout le travail peut se faire aussi avec le clavier. Les raccourcis

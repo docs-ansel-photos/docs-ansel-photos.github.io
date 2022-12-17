@@ -29,6 +29,6 @@ exemple, en  augmentant la saturation,  on augmente l'intensité  de la
 couleur mais on diminue la luminosité.
 
 ### Vibrance
-Dans R&Darktable, elle correspond à une augmentation de la chroma pour
+Dans Ansel, elle correspond à une augmentation de la chroma pour
 les couleurs ayant peu de chroma.  Cela permet de ne pas trop exploser
 les couleurs qui sont bien présentes dans la photographie.
