@@ -9,3 +9,5 @@ enlevant des objets indésirables, en mettant en valeur le sujet
 principal, etc\... Il faut simplement sélectionner l'aspect de l'image
 finale puis avec la souris déterminer la zone. Enrouler le module
 validera le choix.
+
+![Vue chambre noire](recadrer.png?classes=shadow&height=500px)

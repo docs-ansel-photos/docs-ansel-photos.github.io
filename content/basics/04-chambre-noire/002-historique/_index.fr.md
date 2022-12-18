@@ -24,3 +24,5 @@ le développement. Lorsque l'étape à partir duquel vous souhaitez
 repartir est sélectionné, compresser enlèvera les modifications
 postérieures. Dans le cas où original est sélectionné, tout le
 développement sera annulé.
+
+![Vue chambre noire](annuler.png?classes=shadow&height=500px)

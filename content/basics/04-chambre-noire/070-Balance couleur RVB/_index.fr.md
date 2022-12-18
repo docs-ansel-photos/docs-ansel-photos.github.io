@@ -13,6 +13,8 @@ Dans ce cadre, il s'agit d'ajouter :
 * de la "saturation"
 * ou vibrance
 
+![Vue chambre noire](balance.png?classes=shadow&height=500px)
+
 ### Contraste
 Il suffit  de jouer avec la  réglette idoine sur l'onglet  Maître pour
 l'augmenter si souhaité.

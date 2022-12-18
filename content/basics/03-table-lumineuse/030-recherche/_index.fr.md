@@ -26,6 +26,10 @@ affiner, inclure ou exclure des images ou respectivement et, ou et sauf.
 
 ![screen](filtres.png?classes=shadow&height=500px)
 
-*Note : tous les raccourcis sont accessibles par la touche h y compris
+{{% notice info %}}
+Tous les raccourcis sont accessibles par la touche h y compris
 ceux créés par chaque utilisateur, la configuration se faisant dans les
-préférences.*
+préférences.
+{{% /notice %}}
+
+

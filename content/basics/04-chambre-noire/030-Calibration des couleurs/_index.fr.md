@@ -32,6 +32,8 @@ Il existe plusieurs options pour les modifier :
     non neutres. Cependant, des textures colorées nettes risquent de
     faire échouer l'algorithme, par exemple l'herbe verte
 
+![Vue chambre noire](cat.png?classes=shadow&height=500px)
+
 Après l'option choisie, un illuminant avec une température ainsi que
 l'espace de couleur seront sélectionnés. A gauche de la couleur de
 l'illuminant se trouve la température de couleur corrélée (CCT), elle

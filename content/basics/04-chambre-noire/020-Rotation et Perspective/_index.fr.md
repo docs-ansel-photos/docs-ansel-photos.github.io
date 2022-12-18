@@ -13,3 +13,5 @@ ligne et de ce fait la tracer. La rotation se fera ensuite
 automatiquement suivant ce paramètre. Celle-ci sera validée en enroulant
 ce module. Le module s'occupera automatiquement du recadrage si celui-ci
 est sélectionné.
+
+![Vue chambre noire](rotation.png?classes=shadow&height=500px)

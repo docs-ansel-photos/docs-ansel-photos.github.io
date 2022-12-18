@@ -12,6 +12,8 @@ Dans un premier temps, il faut régler le masque dans l'onglet du même
 nom. La compensation d'exposition du masque est à mettre à l'inverse de
 l'augmentation de la valeur d'exposition du module du même nom.
 
+![Vue chambre noire](masque.png?classes=shadow&height=500px)
+
 Ensuite, il faut se mettre dans l'onglet avancé, le plus pratique, pour
 effectuer les modifications de deux manières :
 
@@ -20,6 +22,8 @@ effectuer les modifications de deux manières :
 -   ou utiliser la souris sur l'image et augmenter ou diminuer
     l'exposition des zones semblables dans l'image à celle que la souris
     survole et ce en utilisant la roulette de la souris
+
+![Vue chambre noire](avance.png?classes=shadow&height=500px)
 
 Il faut aussi faire attention à :
 

@@ -28,6 +28,8 @@ des données  sur ces  pixels et augmenter  l'exposition du  blanc pour
 diminuer la  sur-exposition ne changera  rien du  tout à ce  niveau et
 diminuera même le contraste.
 
+![Vue chambre noire](noir-blanc.png?classes=shadow&height=500px)
+
 Au terme de ces réglages, la courbe aura une certaine forme. Elle va
 peut être avoir aux extrémités un écrêtage symbolisé par une partie
 orange. Cela signifie qu'une plage des ombres ou hautes-lumières aura le
@@ -38,7 +40,11 @@ les deux points blanc. En diminuant, cela laissera plus de place aux
 autres zones de la courbe et fera diminuer les parties oranges. La
 deuxième manière est de jouer sur la balance ombres/hautes lumières qui
 donnera une importance à l'une ou l'autre de ces deux zones, ce réglage
-s'applique très bien dans le cas où seulement une extrémité est écrêté.
+s'applique  très bien  dans  le  cas où  seulement  une extrémité  est
+écrêtée.
+
+![Vue chambre noire](look.png?classes=shadow&height=500px)
+
 Le contraste peut être augmenté tout en le maintenant en dessous de 1.5.
 Au delà, l'écrêtage peut être trop important pour que les deux
 précédents réglages le corrigent un minimum. Il faut aussi préciser que

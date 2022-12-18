@@ -7,6 +7,9 @@ weight = 26
 Nous allons  maintenant aborder  la partie la  plus intéressante  : la
 chambre noire.
 
+Pour y  aller, un  double clic  sur l'image ou  le raccourci  d permet
+d'aller dans la chambre noire.
+
 Lieu de travail du logiciel, il permet de développer la photographie. Il
 faut noter que l'ordre d'application, celui que l'on établit par le
 traitement n'est pas celui qui compte. L'ordre du pipeline est dans le
