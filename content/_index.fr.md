@@ -102,7 +102,7 @@ pas dire complétement  râtées. Il est nécessaire  de connaître comment
 Ansel  fonctionne pour  pouvoir  développer les  photos sinon  oui
 ce logiciel est difficile à utiliser comme tant d'autres.
 
-IL faut savoir que Anselest aussi utilisé professionnellement par
+IL faut savoir que Ansel est aussi utilisé professionnellement par
 des photographes.  Il a amplement  mérité cette place étant  donné des
 outils  qui ne  sont pas  présents dans  d'autres logiciels  comme les
 masques paramétriques.
