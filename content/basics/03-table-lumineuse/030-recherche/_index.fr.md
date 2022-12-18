@@ -5,25 +5,27 @@ weight = 30
 
 A déjà été vu la visualisation des photos pour la gestion des rejets.
 Elles peuvent être aussi triées par le paramètre situé à coté soit par
-couleur, date, nom etc\... Mais il n'y aura aucune sélection, à savoir
-que toutes les photos seront présentes.
+couleur, date,  nom de tag.  Tout peut  être fait simplement  avec ces
+choix. Lorsqu'il est question d'une  photo qui serait recherché par un
+seul mot clé, cette recherche suffit.
 
-L'outil le plus puissant est les filtres de collection. Il permet de
-sélectionner, de faire sortir du lot certaines photos en fonction de
-tous les critères possibles. Lors du classement, a été déterminée, par
-exemple, que la couleur verte serait pour les photos à développer. Après
-avoir effectué le tri de tous les clichés, il suffira de sélectionner
-dans la liste labels couleur et de double-cliquer sur le verte. Et il
-n'y aura que les photos possédant un label de couleur verte.
+![screen](recherche.png?classes=shadow&height=500px)
 
-La réinitialisation de la recherche se fait via le bouton souligné.
+Lorsque cet  outil ne  sera pas  assez puissant,  par exemple  avec la
+recherche de  plusieurs mots  clés, elle  se fera  par les  filtres de
+collections.  
+Tout  peut  se sélectionner  via ce  menu  : tags,  couleur,
+étoiles, format, date, etc...
+
+La réinitialisation de la recherche se fait via le bouton désigné.
 
 Dans le cas où plusieurs critères sont nécessaires pour affiner la
 recherche, il faut simplement mettre plusieurs conditions en utilisant
 l'outil sur la ligne de choix de critères "flèche en bas" pour
 affiner, inclure ou exclure des images ou respectivement et, ou et sauf.
 
+![screen](filtres.png?classes=shadow&height=500px)
+
 *Note : tous les raccourcis sont accessibles par la touche h y compris
 ceux créés par chaque utilisateur, la configuration se faisant dans les
 préférences.*
-
