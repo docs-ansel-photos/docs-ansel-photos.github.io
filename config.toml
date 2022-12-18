@@ -1,7 +1,7 @@
 # this is a required setting for this theme to appear on https://themes.gohugo.io/
 # change this to a value appropriate for you; if your site is served from a subdirectory
 # set it like "https://example.com/mysite/"
-baseURL = "https://R-Dt-Docs.github.io"
+baseURL = "https://docs-ansel-photos.github.io"
 
 # canonicalization will only be used for the sitemap.xml and index.xml files;
 # if set to false, a site served from a subdirectory will generate wrong links
@@ -91,7 +91,7 @@ disableHugoGeneratorInject = true
   [[Languages.fr.menu.shortcuts]]
     name = "<i class='fab fa-fw fa-github'></i> Dépôt github"
     identifier = "ds"
-    url = "https://github.com/R-Dt-Docs/R-Dt-Docs.github.io"
+    url = "https://github.com/docs-ansel-photos/docs-ansel-photos.github.io"
     weight = 10
 
   [[Languages.fr.menu.shortcuts]]
@@ -108,7 +108,7 @@ disableHugoGeneratorInject = true
 # settings specific to this theme's features; choose to your likings and
 # consult this documentation for explaination
 [params]
-  editURL = "https://github.com/R-Dt-Docs/R-Dt-Docs.github.io"
+  editURL = "https://github.com/docs-ansel-photos/docs-ansel-photos.github.io"
   description = "Documentation Ansel Photos"
   author = "Guillaume Marty"
   showVisitedLinks = true
