@@ -3,12 +3,12 @@
 ## Dépôt source du site
 
 Ce dépôt contient le code source du [site Documentation pour
-R&Darktable](https://R-Dt-Docs.github.io).
+Ansel](https://docs-ansel-photos.github.io).
 
-R&Darktable est un fork de darktable.
+Ansel est un fork de darktable.
 
 Le      dépôt     du      logiciel     se      trouve     à      cette
-[adresse](https://github.com/Aurelien-Pierre/R-Darktable/)
+[adresse](https://github.com/aurelienpierreeng/ansel)
 
 Pour contribuer à cette documentation, il suffit de forker ce dépôt et
 de proposer des pull request.
