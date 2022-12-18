@@ -57,7 +57,11 @@ modules essentiels :
 -   table lumineuse qui va s'occuper de l'importation et du classement
     des images
 
--   chambre noire où est développée l'image
+![screen](lighttable.png?classes=shadow&height=500px)
+
+- chambre noire où est développée l'image
+
+![screen](darktable.png?classes=shadow&height=500px)
 
 ## Questions
 

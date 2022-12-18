@@ -9,7 +9,9 @@ convient de  le paramétrer  un minimum.  Cela se  fait par  la fenêtre
 accessible par la  roue crantée sur tout onglet du  logiciel située en
 haut plutôt à droite.
 
-{{% notice info %}} Comme dit  auparavant, à terme, il sera inutile de
+![screen](preferences.png?classes=shadow&height=500px)
+
+{{% notice info %}} Comme dit auparavant, à terme, il sera inutile de
 suivre totalement cette partie pour configurer Ansel puisque les
 fonctions restantes seront en relation avec le flux de travail relatif
 à la scène. Si les options sont inexistantes, il ne faut pas en tenir compte.
@@ -21,10 +23,13 @@ où ce serait votre souhait.  {{% /notice %}}
 
 Il s'agit de sélectionner :
 * la langue fr
-* le  thème elegant-grey. Il  permet de  développer une photo  dans de
-    bonnes conditions. Un  thème trop contrasté noir ou  blanc sera un
-    facilitateur  d'erreurs  en  terme  de  saturation,  contraste  et
-    exposition.
+
+![screen](general.png?classes=shadow&height=500px)
+
+Pour darktable, sélectionner le thème elegant-grey.  Il permet de
+développer  une  photo  dans  de  bonnes  conditions.  Un  thème  trop
+contrasté noir  ou blanc  sera un facilitateur  d'erreurs en  terme de
+saturation, contraste et exposition.
 
 ### Traitement
 
@@ -59,8 +64,10 @@ couleurs.
 Il faut noter qu'il n'y aura pas plus de manipulations de
 modules au  niveau du nombre.   En effet,  la balance des  blancs sera
 réglée automatiquement sur le point de référence neutre du boîtier, le
-plus souvent  D65.  Ce nouveau  flux permettra d'obtenir  de meilleurs
+plus souvent D65.  Ce nouveau flux moderne permettra d'obtenir de meilleurs
 développements, c'est donc celui qui sera utilisé dans le tutoriel.
+
+![screen](traitement.png?classes=shadow&height=500px)
 
 ### Partie stockage
 
