@@ -5,7 +5,7 @@ weight = 20
 
 ## Information
 
-Avnt d'effectuer  toute action  de classement sur  les photos,  il est
+Avant d'effectuer  toute action  de classement sur  les photos,  il est
 nécessaire de la sélectionner. Sans sélection, par exemple en laissant
 la souris  dessus, aucune  action ne  sera faite. Il  est vrai  que la
 sélection peut être déstabilisante mais elle est une protection contre
